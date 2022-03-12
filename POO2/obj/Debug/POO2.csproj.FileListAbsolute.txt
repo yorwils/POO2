@@ -1,0 +1,7 @@
+D:\programacion orientada a objetos\POO2\POO2\bin\Debug\POO2.exe.config
+D:\programacion orientada a objetos\POO2\POO2\bin\Debug\POO2.exe
+D:\programacion orientada a objetos\POO2\POO2\bin\Debug\POO2.pdb
+D:\programacion orientada a objetos\POO2\POO2\obj\Debug\POO2.csproj.AssemblyReference.cache
+D:\programacion orientada a objetos\POO2\POO2\obj\Debug\POO2.csproj.CoreCompileInputs.cache
+D:\programacion orientada a objetos\POO2\POO2\obj\Debug\POO2.exe
+D:\programacion orientada a objetos\POO2\POO2\obj\Debug\POO2.pdb
